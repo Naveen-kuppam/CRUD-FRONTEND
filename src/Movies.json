@@ -1,0 +1,52 @@
+{
+  "Movies": [
+    {
+      "Id":1,
+      "Movie": "Bahubali",
+      "Hero": "Prabash",
+      "Heroine": "Anushka",
+      "Budget": "300",
+      "Collections": 600,
+      "Image": "/images/OIP_YHYoa8n.webp",
+      "id": "ROQI_P80xYk"
+    },
+    {
+      "Id":2,
+      "Movie": "Bahubali-2",
+      "Hero": "Prabash",
+      "Heroine": "Anushka",
+      "Budget": "400",
+      "Collections": 1800,
+      "Image": "/images/bahubali_2_12dec_landscape_thumb_RhNqCdD.jpg",
+      "id": "ROQI_P80xYk"
+    },
+    {
+      "Movie": "Darling",
+      "Hero": "Prabash",
+      "Heroine": "Kajal",
+      "Budget": "30",
+      "Collections": "50",
+      "Image": "\\images\\darling-prabhas-movie-poster-9z27mqj6w49hzjxy_8icJfzO.jpg",
+      "id": "wxvfo5B0G4w"
+    },
+    {
+      "Movie": "Coolie",
+      "Hero": "Rajini Kanth",
+      "Heroine": "Shurthi Hassan",
+      "Budget": "200",
+      "Collections": "300",
+      "Image": "\\images\\OIP_1.webp",
+      "id": "TnxozpQl6hc"
+    },
+    {
+      "Movie": "OG",
+      "Hero": "Pawan Kalyan",
+      "Heroine": "Priyanka Mohan",
+      "Budget": "200",
+      "Collections": "300",
+      "Image": "\\images\\og-movie-2025-09-24-17-51-26_WIh0uUp.webp",
+      "id": "BHHvlAsMhlk"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
